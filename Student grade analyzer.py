@@ -1,4 +1,6 @@
 # Student Grade Analyzer
+# 📌 A school needs to analyze class performance: find averages, top/bottom performers, grade distribution, and flag at-risk students.
+# 🎯 Task: Write analyze_grades(students_dict) where keys are names and values are lists of marks. Return a detailed analysis report as a dict.
 
 students = {
     "Rahul":   [85, 92, 78, 90, 88],

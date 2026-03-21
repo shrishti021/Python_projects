@@ -1,6 +1,5 @@
 # Contact Book Manager
-# BEGINNER
-# 20 pts
+
 # 📌 Build a simple contact management system — add, search, and delete contacts. This simulates a real CRUD (Create, Read, Update, Delete) operation.
 # 🎯 Task: Build 4 functions: add_contact(), search_contact(name), delete_contact(name), and show_all(). Store contacts in a list of dicts with name, phone, email.
 # Contact Book Manager

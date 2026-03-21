@@ -1,6 +1,5 @@
 # E-Commerce Discount Engine
-# INTERMEDIATE
-# 25 pts
+
 # 📌 An online store applies discounts based on order value, membership, and coupon codes. Build the discount calculation logic.
 # 🎯 Task: Write a function 
 # calculate_discount(price, is_member, coupon_code) that: 

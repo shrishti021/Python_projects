@@ -1,3 +1,8 @@
+# Password Strength Checker
+
+# 📌 Build a password checker for a signup form. Many beginners don't validate passwords — this leads to security vulnerabilities.
+# 🎯 Task: Write check_password_strength(password) that scores a password from 0-100 based on: length (min 8), uppercase, lowercase, digits, special chars. Return score and a 'Weak/Fair/Strong' rating.
+
 def check_password_strength(password):
     if not isinstance(password, str):
         raise TypeError("Password must be a string")
